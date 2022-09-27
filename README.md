@@ -9,33 +9,33 @@ ARSA AI Voice assistant:"Loading your personal Assistant ARSA.... Hello, Good Mo
 The implemented Voice assistant can perform the following tasks:
 Opens a wepage : Youtube , G-Mail , Google Chrome , StackOverflow
 
- Human : Hey ARSA, Open Youtube
+	 Human : Hey ARSA, Open Youtube
 Predicts time
 
- Human : Hey ARSA , What is the time
+ 	Human : Hey ARSA , What is the time
 3.Fetch Top headlines from Times of India
 
 	Human:Hey ARSA , what's the latest news?
 Captures a photo
 
- Human:Hey ARSA, Take a photo
+	 Human:Hey ARSA, Take a photo
 Searches data from web
-
- Human: Hey ARSA, Search Butterfly images from web
+	
+ 	 Human: Hey ARSA, Search Butterfly images from web
 Ask geographical and computational questions
 
- Human: Hey ARSA, What is the capital of California? / Hey G-One what is Sin 90?
+	 Human: Hey ARSA, What is the capital of California? / Hey G-One what is Sin 90?
 Predict Weather of different Cities
 
- Human: Hey ARSA , What is the weather likely now in Kerala?
+ 	 Human: Hey ARSA , What is the weather likely now in Kerala?
 Abstarct necessary information from wikipedia
 
- Human: Hey ARSA , Who is Bill Gates according to Wikipedia
+	 Human: Hey ARSA , Who is Bill Gates according to Wikipedia
 The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
 
 Ask ARSA about what task it can perform and who created it
 
- Human: Hey ARSA, Who created you? / Hey ARSA , What can you do
+ 	Human: Hey ARSA, Who created you? / Hey ARSA , What can you do
 10.Turn off your pc when required
 
 	 Human: Hey ARSA , Please turn off my PC
